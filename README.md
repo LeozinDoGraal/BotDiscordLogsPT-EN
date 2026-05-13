@@ -1,8 +1,12 @@
-# BotDiscordLogsPT-EN
+<div align="center">
 
 # 🔒 Discord Advanced Logs Bot
 
 Sistema avançado de logs administrativos para Discord.
+
+### 👨‍💻 Developed with ❤️ by LeozinDoTec
+
+</div>
 
 ---
 
@@ -101,11 +105,5 @@ python bot.py
 ✅ Thread logs  
 ✅ Security logs  
 ✅ Cross-server remote logs  
-
-<div align="center">
-
-### 👨‍💻 Developed with ❤️ by Leonardo Miteiro
-
-</div>
 ✅ Automatic role pings  
 ✅ Organized embeds  
