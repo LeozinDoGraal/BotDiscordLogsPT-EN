@@ -101,5 +101,11 @@ python bot.py
 ✅ Thread logs  
 ✅ Security logs  
 ✅ Cross-server remote logs  
+
+<div align="center">
+
+### 👨‍💻 Developed with ❤️ by Leonardo Miteiro
+
+</div>
 ✅ Automatic role pings  
 ✅ Organized embeds  
